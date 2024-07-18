@@ -15,3 +15,4 @@ fun main() {
 fun convertDecimalToBinary(decimal: Int): String {
     return Integer.toBinaryString(decimal)
 }
+
